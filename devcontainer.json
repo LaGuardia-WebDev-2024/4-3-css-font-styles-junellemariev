@@ -1,7 +1,6 @@
     {
       "name": "My Codespace",
-      // other configurations...
       "extensions": [
-        "ms-vscode.live-server" // ID for Microsoft Live Server extension
+        "ms-vscode.live-server"
       ]
     }
